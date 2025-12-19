@@ -1,2 +1,2 @@
-# Computer_Communications_Project
-Project made for Computer Communications subject
+# Computer Communications Project
+Project made for the Computer Communications subject
